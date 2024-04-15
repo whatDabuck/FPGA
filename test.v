@@ -1,9 +1,12 @@
 module modulename #
-(
+// (
 
-)
+// )
 (
-    ports
+    input a,b,
+    output c
 );
-    
+
+
+
 endmodule
